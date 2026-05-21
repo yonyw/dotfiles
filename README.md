@@ -1,2 +1,3 @@
 # dotfiles
-My personal set up &amp; configuration of Ubuntu using GNOME &amp; Kitty Terminal.
+My personal set up & documentation of Ubuntu & GNOME using Kitty Terminal.
+Goal: Learn how Git workflow is done through terminal.
